@@ -1,0 +1,35 @@
+@charset "utf-8";
+:root{
+    --color1: #BF77E1;
+    --color2: #CEEDF3;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.wrapper{
+    width: 300px;
+    height: 500px;
+    background-color: var(--color1);
+}
+
+.wrapper .box{
+    width: 100px;
+    height: 100px;
+    background-color: var(--color2);
+    font-size: 3em;
+    color: #fff;
+    text-transform: uppercase;
+    transform: translate3d(50px, 50px, 50px);
+
+}
