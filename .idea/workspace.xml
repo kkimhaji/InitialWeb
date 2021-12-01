@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="308f1d61-f2f6-4967-a79d-f96aeff943cb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/week7/table.html" beforeDir="false" afterPath="$PROJECT_DIR$/week7/table.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/211125/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/211125/.idea/misc.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,19 +56,6 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -78,6 +65,7 @@
       <option name="presentableId" value="Default" />
       <updated>1634810112146</updated>
       <workItem from="1634810113638" duration="4427000" />
+      <workItem from="1638261801302" duration="14000" />
     </task>
     <servers />
   </component>
@@ -94,6 +82,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="384" y="138" key="#Project_Structure" timestamp="1634810135906">
